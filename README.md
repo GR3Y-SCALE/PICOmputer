@@ -23,8 +23,8 @@ https://www.pcbway.com/project/shareproject/_PICOmputer____World_first_Raspberry
 
 **TODO:**
 
-- add micro SD card
 - add header for wiznet or another ethernet module
 - fix display position
 - more examples
+- Port FUZIX
 
